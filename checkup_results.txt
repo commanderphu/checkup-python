@@ -1,0 +1,16 @@
+System Information:
+System: Linux
+Node Name: Phu-Tower
+Release: 6.11.0-21-generic
+Version: #21~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Mon Feb 24 16:52:15 UTC 2
+Machine: x86_64
+Processor: x86_64
+Boot Time: 2025-04-07 21:16:11
+
+Checkup Results:
+CPU Usage: 24.4% | Score: 8/10
+Memory Usage: 83.7% | Score: 2/10
+Disk Usage: 29.9% | Score: 8/10
+Network Sent: 2234947955 bytes, Received: 2899404544 bytes | Score: 1/10
+
+Gesamtbewertung: 4.75/10 | Status: Gelb
